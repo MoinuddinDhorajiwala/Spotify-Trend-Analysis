@@ -52,22 +52,25 @@ All analysis, plots and code are in main.ipynb.
 
 Once saved, images will display in this README automatically.
 
-## Preview (placeholders)
+## Preview 
 
-![Danceability Across Popularity Buckets](visuals/images/danceability_boxplot.png)
+![Danceability Across Popularity Buckets](visuals/danceability_across_pop.png)
 
-![Energy Distribution Across Popularity Buckets](visuals/images/energy_violin.png)
+![Energy Distribution Across Popularity Buckets](visuals/energy_distribution_across_pop.png)
 
-![Feature Correlation Heatmap](visuals/images/feature_correlation.png)
+![Danceability Vs Popularity ](visuals/danceability_vs_popularity.png)
 
+![Feature Correlation ](visuals/top5_features_most_correlated.png)
 
-## Contributing
+![Feature Covariance ](visuals/top5_features_most_covariated.png)
 
-Contributions welcome — open issues or PRs. If you add visuals, please place them under visuals/images/ and use descriptive filenames.
+![Top 10 Track Count ](visuals/top10_track_count.png)
 
-## License
+![Top 10 Most Popular Tracks ](visuals/top10_most_popular_tracks.png)
 
-Please specify a license (e.g., MIT). If you want, I can add a LICENSE file.
+![Top 10 Genres ](visuals/top10_genres.png)
+
+![Top 10 Artists ](visuals/top10_artist.png)
 
 ## Contact
 
