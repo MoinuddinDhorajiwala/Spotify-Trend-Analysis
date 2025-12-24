@@ -62,7 +62,7 @@ Once saved, images will display in this README automatically.
 
 ![Feature Correlation ](visuals/top5_features_most_correlated.png)
 
-![Feature Covariance ](visuals/top5_features_most_covariated.png)
+![Feature Covariance ](visuals/top5_most_covariated.png)
 
 ![Top 10 Track Count ](visuals/top10_track_count.png)
 
